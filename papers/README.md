@@ -26,3 +26,20 @@ We introduce a differential theory of radiative transfer, which shows how indivi
 
 ### Code
 * https://github.com/uci-rendering/dtrt
+
+# Path-Space Differentiable Renderer
+### Publised
+* 2020
+
+### Summary
+Our path-space differentiable rendering formulation allows the design of new Monte Carlo estimators that offer significantly better efficiency than state-of-the-art methods in handling complex geometric discontinuities and light transport phenomena such as caustics.
+
+### Paper
+* https://shuangz.com/projects/psdr-sg20/psdr-sg20.pdf
+
+### Supplement
+* https://shuangz.com/projects/psdr-sg20/psdr-sg20_supp.pdf
+* https://psdr-cuda.readthedocs.io/en/latest/#
+
+### Code
+* https://github.com/uci-rendering/psdr-cuda/
