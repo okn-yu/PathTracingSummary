@@ -11,6 +11,23 @@ We introduce a general-purpose differentiable ray tracer, which, to our knowledg
 ### Code
 * https://github.com/BachiLi/redner
 
+# Mitsuba 2: A Retargetable Forward and Inverse Renderer
+### Published 
+* 2019
+
+## Summary
+We propose Mitsuba 2, a versatile renderer that is intrinsically retargetable to various applications including the ones listed above.
+
+### Paper 
+* http://rgl.s3.eu-central-1.amazonaws.com/media/papers/NimierDavidVicini2019Mitsuba2_7.pdf
+
+### Supplemental
+* http://rgl.s3.eu-central-1.amazonaws.com/media/papers/NimierDavidVicini2019Mitsuba2_8.pdf
+* https://mitsuba2.readthedocs.io/en/latest/src/getting_started/intro.html
+
+### Code
+* https://github.com/mitsuba-renderer/mitsuba2
+
 # A Differential Theory of Radiative Transfer
 ### Published
 * 2019
