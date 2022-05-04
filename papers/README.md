@@ -1,4 +1,4 @@
-## Differentiable Monte Carlo Ray Tracing through Edge Sampling
+# Differentiable Monte Carlo Ray Tracing through Edge Sampling
 ### Published
 * 2018
 
@@ -11,7 +11,7 @@ We introduce a general-purpose differentiable ray tracer, which, to our knowledg
 ### Code
 * https://github.com/BachiLi/redner
 
-## A Differential Theory of Radiative Transfer
+# A Differential Theory of Radiative Transfer
 ### Published
 * 2019
 
